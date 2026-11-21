@@ -2,6 +2,50 @@
  "schemaVersion": 1,
  "libraries": [
   {
+   "id": "official.a1.daily",
+   "version": "1.0.0",
+   "kind": "official",
+   "name": {
+    "en": "Everyday English · A1",
+    "ar": "إنجليزي الحياة اليومية · A1"
+   },
+   "description": {
+    "en": "Mona's family: home, food, shopping, the bus, rain and the park — 9 short stories and 3 two-voice conversations for beginners.",
+    "ar": "عائلة منى: البيت والطعام والتسوّق والحافلة والمطر والحديقة — 9 قصص قصيرة و3 محادثات بصوتين للمبتدئين."
+   },
+   "author": "Quantum English",
+   "levels": [
+    "A1"
+   ],
+   "category": "general",
+   "counts": {
+    "stories": 9,
+    "sentences": 108,
+    "words": 333,
+    "questions": 36,
+    "patterns": 5,
+    "conversations": 3,
+    "audioTracks": 42
+   },
+   "text": {
+    "url": "official.a1.daily-1.0.0.enpack",
+    "bytes": 29482,
+    "sha256": "197823d7542c8fece8465047ca2a521ac60ba8a43272732c365405b316f3e147"
+   },
+   "cover": {
+    "emoji": "🏡",
+    "colors": [
+     "#F97316",
+     "#DB2777"
+    ]
+   },
+   "audio": {
+    "url": "official.a1.daily-1.0.0.audio.enpack",
+    "bytes": 10432632,
+    "sha256": "77554b7bb6fe399d24f0b8d89a749f296cbd6f115c9f5b4c7f4228d3dfa61066"
+   }
+  },
+  {
    "id": "official.pilot",
    "version": "0.9.1",
    "kind": "official",
@@ -31,7 +75,7 @@
    "text": {
     "url": "official.pilot-0.9.1.enpack",
     "bytes": 62438,
-    "sha256": "6b9633e33dc232db4d41e197dc03d9a652a2d1ae828744294148b497a7f66007"
+    "sha256": "777434b1d47916061d35d6e551cd6acf63ab24ad01832f4175489ffc1aa6ff92"
    },
    "cover": {
     "emoji": "🚂",
