@@ -2,6 +2,426 @@
  "schemaVersion": 1,
  "libraries": [
   {
+   "id": "classic.aesops-fables",
+   "version": "1.0.0",
+   "kind": "classic",
+   "name": {
+    "en": "Aesop's Fables",
+    "ar": "حكايات إيسوب"
+   },
+   "description": {
+    "en": "Aesop — the original public-domain text, ≈A2. Read with the moving pointer, tap any word to translate.",
+    "ar": "مئات الحكايات القصيرة جداً، كل حكاية بعبرة. مثالية للقراءة اليومية الخفيفة. النص الأصلي الكامل (ملكية عامة) · ≈A2 · نحو 9.3 ساعة استماع."
+   },
+   "author": "Aesop",
+   "levels": [
+    "A2"
+   ],
+   "category": "classics",
+   "counts": {
+    "stories": 120,
+    "sentences": 4758,
+    "words": 40923
+   },
+   "text": {
+    "url": "classic.aesops-fables-1.0.0.enpack",
+    "bytes": 102696,
+    "sha256": "8539ccab4de3ea5b2829945a8cbae6f4c78dc1cc2e68fdcba769575554a2d704"
+   },
+   "cover": {
+    "emoji": "🦊",
+    "colors": [
+     "#EA580C",
+     "#7C2D12"
+    ]
+   }
+  },
+  {
+   "id": "classic.alice-in-wonderland",
+   "version": "1.0.0",
+   "kind": "classic",
+   "name": {
+    "en": "Alice's Adventures in Wonderland",
+    "ar": "أليس في بلاد العجائب"
+   },
+   "description": {
+    "en": "Lewis Carroll — the original public-domain text, ≈B2. Read with the moving pointer, tap any word to translate.",
+    "ar": "أليس تسقط في جحر الأرنب إلى عالم غريب. ممتعة لكن فيها ألعاب لغوية تحتاج انتباهاً. النص الأصلي الكامل (ملكية عامة) · ≈B2 · نحو 2.7 ساعة استماع."
+   },
+   "author": "Lewis Carroll",
+   "levels": [
+    "B2"
+   ],
+   "category": "classics",
+   "counts": {
+    "stories": 39,
+    "sentences": 1391,
+    "words": 27254
+   },
+   "text": {
+    "url": "classic.alice-in-wonderland-1.0.0.enpack",
+    "bytes": 56228,
+    "sha256": "2fea6295e4b0db19a95c14ec2cfe121865058d29b3c58ff119a2a1e2c38d3ca5"
+   },
+   "cover": {
+    "emoji": "🐇",
+    "colors": [
+     "#7C3AED",
+     "#3B0764"
+    ]
+   }
+  },
+  {
+   "id": "classic.black-beauty",
+   "version": "1.0.0",
+   "kind": "classic",
+   "name": {
+    "en": "Black Beauty",
+    "ar": "الجمال الأسود"
+   },
+   "description": {
+    "en": "Anna Sewell — the original public-domain text, ≈B1. Read with the moving pointer, tap any word to translate.",
+    "ar": "سيرة حصان يحكي حياته بنفسه: عن اللطف والقسوة واحترام الحيوان. جمل واضحة ومباشرة. النص الأصلي الكامل (ملكية عامة) · ≈B1 · نحو 4.6 ساعة استماع."
+   },
+   "author": "Anna Sewell",
+   "levels": [
+    "B1"
+   ],
+   "category": "classics",
+   "counts": {
+    "stories": 91,
+    "sentences": 2390,
+    "words": 60018
+   },
+   "text": {
+    "url": "classic.black-beauty-1.0.0.enpack",
+    "bytes": 119296,
+    "sha256": "e166f517cc46dc0baa9b97133315bec54e668ff5ea0db3f410044add6cb4ea4c"
+   },
+   "cover": {
+    "emoji": "🐴",
+    "colors": [
+     "#334155",
+     "#0F172A"
+    ]
+   }
+  },
+  {
+   "id": "classic.call-of-the-wild",
+   "version": "1.0.0",
+   "kind": "classic",
+   "name": {
+    "en": "The Call of the Wild",
+    "ar": "نداء البرية"
+   },
+   "description": {
+    "en": "Jack London — the original public-domain text, ≈B2. Read with the moving pointer, tap any word to translate.",
+    "ar": "الكلب باك يُخطف إلى ثلوج ألاسكا ويتعلّم قانون البرية. قصيرة ومثيرة. النص الأصلي الكامل (ملكية عامة) · ≈B2 · نحو 6.7 ساعة استماع."
+   },
+   "author": "Jack London",
+   "levels": [
+    "B2"
+   ],
+   "category": "classics",
+   "counts": {
+    "stories": 89,
+    "sentences": 3463,
+    "words": 28507
+   },
+   "text": {
+    "url": "classic.call-of-the-wild-1.0.0.enpack",
+    "bytes": 72382,
+    "sha256": "3c7ebf95605411efbb0da27f89610c876c0107afafd3a3eb903104fd3c16873e"
+   },
+   "cover": {
+    "emoji": "🐺",
+    "colors": [
+     "#0F766E",
+     "#042F2E"
+    ]
+   }
+  },
+  {
+   "id": "classic.peter-pan",
+   "version": "1.0.0",
+   "kind": "classic",
+   "name": {
+    "en": "Peter Pan",
+    "ar": "بيتر بان"
+   },
+   "description": {
+    "en": "J. M. Barrie — the original public-domain text, ≈B1. Read with the moving pointer, tap any word to translate.",
+    "ar": "الولد الذي لا يكبر، وويندي وإخوتها في نيفرلاند مع القراصنة والجنيّة تينكربيل. النص الأصلي الكامل (ملكية عامة) · ≈B1 · نحو 6.0 ساعة استماع."
+   },
+   "author": "J. M. Barrie",
+   "levels": [
+    "B1"
+   ],
+   "category": "classics",
+   "counts": {
+    "stories": 86,
+    "sentences": 3072,
+    "words": 47785
+   },
+   "text": {
+    "url": "classic.peter-pan-1.0.0.enpack",
+    "bytes": 105836,
+    "sha256": "b406b13bbc5fcd0704050f09ce5d6aae0cb7cda9f7a9b91814d3a9333faf7853"
+   },
+   "cover": {
+    "emoji": "🧚",
+    "colors": [
+     "#0EA5E9",
+     "#0C4A6E"
+    ]
+   }
+  },
+  {
+   "id": "classic.peter-rabbit",
+   "version": "1.0.0",
+   "kind": "classic",
+   "name": {
+    "en": "The Tale of Peter Rabbit",
+    "ar": "حكاية الأرنب بيتر"
+   },
+   "description": {
+    "en": "Beatrix Potter — the original public-domain text, ≈A2. Read with the moving pointer, tap any word to translate.",
+    "ar": "قصة قصيرة جداً بجمل بسيطة عن أرنب صغير مشاغب في حديقة السيد مكغريغور. بداية ممتازة. النص الأصلي الكامل (ملكية عامة) · ≈A2 · نحو 0.1 ساعة استماع."
+   },
+   "author": "Beatrix Potter",
+   "levels": [
+    "A2"
+   ],
+   "category": "classics",
+   "counts": {
+    "stories": 2,
+    "sentences": 66,
+    "words": 1002
+   },
+   "text": {
+    "url": "classic.peter-rabbit-1.0.0.enpack",
+    "bytes": 3952,
+    "sha256": "e2e5567cda3037329b2c6a7c582908353fece9e8894a9ef9ae5058a1ee3b3a7b"
+   },
+   "cover": {
+    "emoji": "🐰",
+    "colors": [
+     "#65A30D",
+     "#365314"
+    ]
+   }
+  },
+  {
+   "id": "classic.pride-and-prejudice",
+   "version": "1.0.0",
+   "kind": "classic",
+   "name": {
+    "en": "Pride and Prejudice",
+    "ar": "كبرياء وتحامل"
+   },
+   "description": {
+    "en": "Jane Austen — the original public-domain text, ≈C1. Read with the moving pointer, tap any word to translate.",
+    "ar": "إليزابيث بينيت والسيد دارسي في إنجلترا القرن التاسع عشر. أسلوب أدبي راقٍ للمتقدّمين. النص الأصلي الكامل (ملكية عامة) · ≈C1 · نحو 29.2 ساعة استماع."
+   },
+   "author": "Jane Austen",
+   "levels": [
+    "C1"
+   ],
+   "category": "classics",
+   "counts": {
+    "stories": 404,
+    "sentences": 15003,
+    "words": 128251
+   },
+   "text": {
+    "url": "classic.pride-and-prejudice-1.0.0.enpack",
+    "bytes": 313650,
+    "sha256": "4fceeae72d688fd9328efa3568f2ed7ca4205a9e813c251009747e7d4c8e2a2d"
+   },
+   "cover": {
+    "emoji": "💌",
+    "colors": [
+     "#9D174D",
+     "#3F0D24"
+    ]
+   }
+  },
+  {
+   "id": "classic.secret-garden",
+   "version": "1.0.0",
+   "kind": "classic",
+   "name": {
+    "en": "The Secret Garden",
+    "ar": "الحديقة السرية"
+   },
+   "description": {
+    "en": "Frances Hodgson Burnett — the original public-domain text, ≈B2. Read with the moving pointer, tap any word to translate.",
+    "ar": "ماري تكتشف حديقة مغلقة منذ سنوات وتعيدها إلى الحياة. رواية هادئة وغنية بالمفردات. النص الأصلي الكامل (ملكية عامة) · ≈B2 · نحو 10.9 ساعة استماع."
+   },
+   "author": "Frances Hodgson Burnett",
+   "levels": [
+    "B2"
+   ],
+   "category": "classics",
+   "counts": {
+    "stories": 152,
+    "sentences": 5603,
+    "words": 82833
+   },
+   "text": {
+    "url": "classic.secret-garden-1.0.0.enpack",
+    "bytes": 169252,
+    "sha256": "a4ab0354e9e12e076c28f592957eebba601e7be30313424a4d950bc535c11c93"
+   },
+   "cover": {
+    "emoji": "🌹",
+    "colors": [
+     "#BE123C",
+     "#4C0519"
+    ]
+   }
+  },
+  {
+   "id": "classic.sherlock-holmes",
+   "version": "1.0.0",
+   "kind": "classic",
+   "name": {
+    "en": "The Adventures of Sherlock Holmes",
+    "ar": "مغامرات شيرلوك هولمز"
+   },
+   "description": {
+    "en": "Arthur Conan Doyle — the original public-domain text, ≈C1. Read with the moving pointer, tap any word to translate.",
+    "ar": "اثنتا عشرة قضية للمحقق شيرلوك هولمز وصديقه واتسون. لغة غنية وحوارات ذكية. النص الأصلي الكامل (ملكية عامة) · ≈C1 · نحو 25.5 ساعة استماع."
+   },
+   "author": "Arthur Conan Doyle",
+   "levels": [
+    "C1"
+   ],
+   "category": "classics",
+   "counts": {
+    "stories": 333,
+    "sentences": 13127,
+    "words": 105711
+   },
+   "text": {
+    "url": "classic.sherlock-holmes-1.0.0.enpack",
+    "bytes": 260087,
+    "sha256": "62e98cfd9057ca6f156f9d30a51afbde34b3134dc11080c56de2f89ed081ed00"
+   },
+   "cover": {
+    "emoji": "🔍",
+    "colors": [
+     "#1E3A8A",
+     "#0B1026"
+    ]
+   }
+  },
+  {
+   "id": "classic.treasure-island",
+   "version": "1.0.0",
+   "kind": "classic",
+   "name": {
+    "en": "Treasure Island",
+    "ar": "جزيرة الكنز"
+   },
+   "description": {
+    "en": "Robert Louis Stevenson — the original public-domain text, ≈B2. Read with the moving pointer, tap any word to translate.",
+    "ar": "جيم هوكنز وخريطة الكنز والقرصان لونغ جون سيلفر. مغامرة بحرية كلاسيكية. النص الأصلي الكامل (ملكية عامة) · ≈B2 · نحو 7.1 ساعة استماع."
+   },
+   "author": "Robert Louis Stevenson",
+   "levels": [
+    "B2"
+   ],
+   "category": "classics",
+   "counts": {
+    "stories": 107,
+    "sentences": 3629,
+    "words": 70283
+   },
+   "text": {
+    "url": "classic.treasure-island-1.0.0.enpack",
+    "bytes": 150819,
+    "sha256": "3a3b9771ba199586c7353a89cb7efc8d3a3029db507bca65dc9c5b3f4098b16d"
+   },
+   "cover": {
+    "emoji": "🏴‍☠️",
+    "colors": [
+     "#B45309",
+     "#451A03"
+    ]
+   }
+  },
+  {
+   "id": "classic.velveteen-rabbit",
+   "version": "1.0.0",
+   "kind": "classic",
+   "name": {
+    "en": "The Velveteen Rabbit",
+    "ar": "الأرنب المخملي"
+   },
+   "description": {
+    "en": "Margery Williams — the original public-domain text, ≈A2. Read with the moving pointer, tap any word to translate.",
+    "ar": "حكاية دافئة عن لعبة أرنب يتمنى أن يصبح حقيقياً بالحب. قصيرة ولغتها سهلة. النص الأصلي الكامل (ملكية عامة) · ≈A2 · نحو 1.0 ساعة استماع."
+   },
+   "author": "Margery Williams",
+   "levels": [
+    "A2"
+   ],
+   "category": "classics",
+   "counts": {
+    "stories": 13,
+    "sentences": 489,
+    "words": 3990
+   },
+   "text": {
+    "url": "classic.velveteen-rabbit-1.0.0.enpack",
+    "bytes": 10850,
+    "sha256": "0d91da305904351995f2157e4a8503bddc15fb79e64e4356f8db7d6d66c41890"
+   },
+   "cover": {
+    "emoji": "🧸",
+    "colors": [
+     "#DB2777",
+     "#831843"
+    ]
+   }
+  },
+  {
+   "id": "classic.wizard-of-oz",
+   "version": "1.0.0",
+   "kind": "classic",
+   "name": {
+    "en": "The Wonderful Wizard of Oz",
+    "ar": "ساحر أوز العجيب"
+   },
+   "description": {
+    "en": "L. Frank Baum — the original public-domain text, ≈B1. Read with the moving pointer, tap any word to translate.",
+    "ar": "دوروثي وكلبها توتو في أرض أوز السحرية مع الفزاعة ورجل الصفيح والأسد. لغة واضحة وأحداث مشوقة. النص الأصلي الكامل (ملكية عامة) · ≈B1 · نحو 8.5 ساعة استماع."
+   },
+   "author": "L. Frank Baum",
+   "levels": [
+    "B1"
+   ],
+   "category": "classics",
+   "counts": {
+    "stories": 120,
+    "sentences": 4357,
+    "words": 39649
+   },
+   "text": {
+    "url": "classic.wizard-of-oz-1.0.0.enpack",
+    "bytes": 86820,
+    "sha256": "d8f5363e1446f21af37a170c6d8cd0f7e442344a0e8b28ca3227cf75d5cd0813"
+   },
+   "cover": {
+    "emoji": "🌪️",
+    "colors": [
+     "#16A34A",
+     "#14532D"
+    ]
+   }
+  },
+  {
    "id": "official.a1.daily",
    "version": "1.1.0",
    "kind": "official",
