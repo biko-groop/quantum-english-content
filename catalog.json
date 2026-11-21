@@ -47,7 +47,7 @@
   },
   {
    "id": "official.a2.inspire",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "kind": "official",
    "name": {
     "en": "Small Steps · Inspiring Stories A2",
@@ -69,12 +69,12 @@
     "questions": 36,
     "patterns": 3,
     "conversations": 4,
-    "audioTracks": 0
+    "audioTracks": 40
    },
    "text": {
-    "url": "official.a2.inspire-1.0.0.enpack",
+    "url": "official.a2.inspire-1.0.1.enpack",
     "bytes": 42472,
-    "sha256": "7b0d93e7b92875e79bb19a85075603bdc5e5837e703ff3caf33edf89d1b40a6b"
+    "sha256": "f6bfabbcd142d3309f370381834d49c9f146214e80213d008df58b48eb50a007"
    },
    "cover": {
     "emoji": "🌱",
@@ -82,6 +82,11 @@
      "#16A34A",
      "#0F766E"
     ]
+   },
+   "audio": {
+    "url": "official.a2.inspire-1.0.1.audio.enpack",
+    "bytes": 19734169,
+    "sha256": "3d8937389d5d4dd8abd0bec29aa74b75ef35d57c653911d1a7e371636ea8db90"
    }
   },
   {
