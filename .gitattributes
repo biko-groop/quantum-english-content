@@ -1,0 +1,2 @@
+*.enpack binary -filter -diff -merge
+*.json text eol=lf

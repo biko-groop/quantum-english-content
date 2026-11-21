@@ -1,0 +1,50 @@
+{
+ "schemaVersion": 1,
+ "libraries": [
+  {
+   "id": "official.pilot",
+   "version": "0.9.1",
+   "kind": "official",
+   "name": {
+    "en": "Pilot Library",
+    "ar": "المكتبة التجريبية"
+   },
+   "description": {
+    "en": "Stories from A1 to B1, including the first podcast episode. Draft content awaiting linguistic review.",
+    "ar": "قصص من A1 إلى B1، منها أول حلقة بودكاست. محتوى مسودة بانتظار المراجعة اللغوية."
+   },
+   "author": "Quantum English",
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "category": "general",
+   "counts": {
+    "stories": 12,
+    "sentences": 195,
+    "words": 765,
+    "questions": 69,
+    "conversations": 5,
+    "audioTracks": 46
+   },
+   "text": {
+    "url": "official.pilot-0.9.1.enpack",
+    "bytes": 62438,
+    "sha256": "6b9633e33dc232db4d41e197dc03d9a652a2d1ae828744294148b497a7f66007"
+   },
+   "cover": {
+    "emoji": "🚂",
+    "colors": [
+     "#6366F1",
+     "#0F172A"
+    ]
+   },
+   "audio": {
+    "url": "official.pilot-0.9.1.audio.enpack",
+    "bytes": 25298677,
+    "sha256": "decff0e99e7825884075efac20777b04bd33ed552f1357783dec25eecc567235"
+   }
+  }
+ ]
+}
