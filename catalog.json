@@ -3,15 +3,15 @@
  "libraries": [
   {
    "id": "official.a1.daily",
-   "version": "1.0.0",
+   "version": "1.1.0",
    "kind": "official",
    "name": {
     "en": "Everyday English · A1",
     "ar": "إنجليزي الحياة اليومية · A1"
    },
    "description": {
-    "en": "Mona's family: home, food, shopping, the bus, rain and the park — 9 short stories and 3 two-voice conversations for beginners.",
-    "ar": "عائلة منى: البيت والطعام والتسوّق والحافلة والمطر والحديقة — 9 قصص قصيرة و3 محادثات بصوتين للمبتدئين."
+    "en": "Mona's family: home, food, shopping, the bus, rain and the park — 9 short stories, 3 two-voice conversations and a 3-episode podcast by Mona and Yusuf.",
+    "ar": "عائلة منى: البيت والطعام والتسوّق والحافلة والمطر والحديقة — 9 قصص قصيرة و3 محادثات بصوتين وبودكاست من 3 حلقات تقدّمه منى ويوسف."
    },
    "author": "Quantum English",
    "levels": [
@@ -21,16 +21,16 @@
    "counts": {
     "stories": 9,
     "sentences": 108,
-    "words": 333,
-    "questions": 36,
+    "words": 347,
+    "questions": 45,
     "patterns": 5,
-    "conversations": 3,
-    "audioTracks": 42
+    "conversations": 6,
+    "audioTracks": 48
    },
    "text": {
-    "url": "official.a1.daily-1.0.0.enpack",
-    "bytes": 29482,
-    "sha256": "197823d7542c8fece8465047ca2a521ac60ba8a43272732c365405b316f3e147"
+    "url": "official.a1.daily-1.1.0.enpack",
+    "bytes": 33588,
+    "sha256": "ebfc8ce239b7366d3d2766cb09fa97a498316abc29bb899fd215c1d22482184f"
    },
    "cover": {
     "emoji": "🏡",
@@ -40,9 +40,9 @@
     ]
    },
    "audio": {
-    "url": "official.a1.daily-1.0.0.audio.enpack",
-    "bytes": 10432632,
-    "sha256": "77554b7bb6fe399d24f0b8d89a749f296cbd6f115c9f5b4c7f4228d3dfa61066"
+    "url": "official.a1.daily-1.1.0.audio.enpack",
+    "bytes": 12654261,
+    "sha256": "7f9beacc8428de0352b7880adc2dc6e38b0ddad4dc7d1b422f6f56b739597446"
    }
   },
   {
