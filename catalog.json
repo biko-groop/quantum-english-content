@@ -46,6 +46,45 @@
    }
   },
   {
+   "id": "official.a2.inspire",
+   "version": "1.0.0",
+   "kind": "official",
+   "name": {
+    "en": "Small Steps · Inspiring Stories A2",
+    "ar": "خطوات صغيرة · قصص ملهمة A2"
+   },
+   "description": {
+    "en": "One neighbourhood, eight inspiring stories about habits, courage, kindness, honesty and patience — plus «Small Steps», a 4-episode podcast where the characters tell their stories.",
+    "ar": "حيّ واحد وثماني قصص ملهمة عن العادات والشجاعة واللطف والأمانة والصبر، مع بودكاست «خطوات صغيرة» من 4 حلقات طويلة يحكي فيها أبطال القصص تجاربهم."
+   },
+   "author": "Quantum English",
+   "levels": [
+    "A2"
+   ],
+   "category": "general",
+   "counts": {
+    "stories": 8,
+    "sentences": 125,
+    "words": 464,
+    "questions": 36,
+    "patterns": 3,
+    "conversations": 4,
+    "audioTracks": 0
+   },
+   "text": {
+    "url": "official.a2.inspire-1.0.0.enpack",
+    "bytes": 42472,
+    "sha256": "7b0d93e7b92875e79bb19a85075603bdc5e5837e703ff3caf33edf89d1b40a6b"
+   },
+   "cover": {
+    "emoji": "🌱",
+    "colors": [
+     "#16A34A",
+     "#0F766E"
+    ]
+   }
+  },
+  {
    "id": "official.pilot",
    "version": "0.9.1",
    "kind": "official",
