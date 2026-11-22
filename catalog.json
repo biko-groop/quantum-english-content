@@ -209,6 +209,11 @@
      "#65A30D",
      "#365314"
     ]
+   },
+   "audio": {
+    "url": "classic.peter-rabbit-1.0.0.audio.enpack",
+    "bytes": 4895852,
+    "sha256": "84a57596afcd1f43954b37e125ac5d77d896f6e8b56d4d4c25b610e96bd91edc"
    }
   },
   {
