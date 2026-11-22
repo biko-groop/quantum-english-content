@@ -389,6 +389,11 @@
      "#DB2777",
      "#831843"
     ]
+   },
+   "audio": {
+    "url": "classic.velveteen-rabbit-1.0.0.audio.enpack",
+    "bytes": 20207125,
+    "sha256": "6198d49545f7592b2cb18c80337c2c6b55909203492949383fc2dbfe63f2b487"
    }
   },
   {
