@@ -553,6 +553,49 @@
     "bytes": 25298677,
     "sha256": "decff0e99e7825884075efac20777b04bd33ed552f1357783dec25eecc567235"
    }
+  },
+  {
+   "id": "reader.a2.blue-door",
+   "version": "1.0.0",
+   "kind": "official",
+   "name": {
+    "en": "The Map Behind the Blue Door · A2",
+    "ar": "الخريطة خلف الباب الأزرق · A2"
+   },
+   "description": {
+    "en": "Karim spends the summer at his grandfather's old bookshop by the sea. Then he hears the bad news: in one month, the shop will become a hotel. An old map, a lighthouse and a locked drawer are their only hope.",
+    "ar": "يقضي كريم الصيف في مكتبة جده القديمة على البحر، ثم يسمع الخبر السيئ: بعد شهر واحد ستصبح المكتبة فندقاً. خريطة قديمة ومنارة ودُرج مقفل هي أملهم الوحيد. رواية مشوّقة عن العائلة والكتب والشجاعة. (10 فصول · نحو 3329 كلمة)"
+   },
+   "author": "Quantum English (original graded reader)",
+   "levels": [
+    "A2"
+   ],
+   "category": "reader",
+   "counts": {
+    "stories": 10,
+    "sentences": 346,
+    "words": 414,
+    "questions": 30,
+    "conversations": 0,
+    "audioTracks": 40
+   },
+   "text": {
+    "url": "reader.a2.blue-door-1.0.0.enpack",
+    "bytes": 35469,
+    "sha256": "522169f61fcb2891156053f91f7b612436523cef95b62e46f0dbcfdaa03a1f4c"
+   },
+   "cover": {
+    "emoji": "🗺️",
+    "colors": [
+     "#0EA5E9",
+     "#1E3A8A"
+    ]
+   },
+   "audio": {
+    "url": "reader.a2.blue-door-1.0.0.audio.enpack",
+    "bytes": 35362434,
+    "sha256": "cfdfffac660ed4fe655e890605bc29c8bd5f0e1cc72d3ba366f541ce0789d4d8"
+   }
   }
  ]
 }
